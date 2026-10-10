@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 5.28 4 10.56 4 16 C2.68 16 1.36 16 0 16 C0 14.68 0 13.36 0 12 C-1.32 12 -2.64 12 -4 12 C-4 9.36 -4 6.72 -4 4 C-2.68 4 -1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#E7E2E1" transform="translate(24,48)"/>
+<path d="M0 0 C2.64 0 5.28 0 8 0 C8 3.96 8 7.92 8 12 C6.68 12 5.36 12 4 12 C4 10.68 4 9.36 4 8 C2.68 8 1.36 8 0 8 C0 5.36 0 2.72 0 0 Z " fill="#979797" transform="translate(20,32)"/>
+<path d="M0 0 C2.64 0 5.28 0 8 0 C8 2.64 8 5.28 8 8 C4.04 8 0.08 8 -4 8 C-4 6.68 -4 5.36 -4 4 C-2.68 4 -1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#DFD9D8" transform="translate(56,16)"/>
+<path d="M0 0 C2.64 0 5.28 0 8 0 C8 1.32 8 2.64 8 4 C9.32 4 10.64 4 12 4 C12 5.32 12 6.64 12 8 C8.04 8 4.08 8 0 8 C0 5.36 0 2.72 0 0 Z " fill="#979797" transform="translate(36,16)"/>
+<path d="M0 0 C2.64 0 5.28 0 8 0 C8 2.64 8 5.28 8 8 C5.36 8 2.72 8 0 8 C0 5.36 0 2.72 0 0 Z " fill="#BEBDBD" transform="translate(32,28)"/>
+<path d="M0 0 C2.64 0 5.28 0 8 0 C8 2.64 8 5.28 8 8 C5.36 8 2.72 8 0 8 C0 5.36 0 2.72 0 0 Z " fill="#909090" transform="translate(24,20)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 2.64 4 5.28 4 8 C2.68 8 1.36 8 0 8 C0 5.36 0 2.72 0 0 Z " fill="#B4B4B4" transform="translate(20,52)"/>
+<path d="M0 0 C2.64 0 5.28 0 8 0 C8 1.32 8 2.64 8 4 C5.36 4 2.72 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(56,16)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(16,60)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(16,48)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#DFD9D8" transform="translate(28,44)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(20,44)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(12,44)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#DFD9D8" transform="translate(32,40)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(16,40)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#DFD9D8" transform="translate(44,28)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#DFD9D8" transform="translate(48,24)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(48,16)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(52,12)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(44,12)"/>
+<path d="M0 0 C1.32 0 2.64 0 4 0 C4 1.32 4 2.64 4 4 C2.68 4 1.36 4 0 4 C0 2.68 0 1.36 0 0 Z " fill="#B4B4B4" transform="translate(48,8)"/>
+</svg>
