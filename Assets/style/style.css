@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'pixil';
+    src: url(../Fonts/PixelifySans-VariableFont.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+* {
+    font-family: 'pixil' , sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #64242f;
+}
+.header1{
+    background-color: transparent;
+    display: block;
+    border: none;
+    width: auto;
+    position: absolute;
+    margin-top: 24px;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    width: max-content;
+}
+.navlink{
+    display: block;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbutton {
+    position: relative;
+    width: 160px;
+    aspect-ratio: 2 / 1;
+    background-image: url('../GUI/navbar/navicoani.svg');
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-size: 100% auto;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navtext{
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px #8a1d2e;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.navbutton:hover , .navbutton:focus{
+    animation: damnitsanimated 0.2s steps(2) forwards;
+
+}
+
+
+@keyframes damnitsanimated {
+    from {
+        background-position: center 0%;
+    }
+
+   to {
+        background-position: center 100%;
+    }
+}
+
+.navbutton:active{
+    background-position: center 100%;
+}
