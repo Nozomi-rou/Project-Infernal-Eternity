@@ -50,7 +50,8 @@ body{
 
 .navbutton {
     position: relative;
-    width: 160px;
+    width: 30vw;
+    max-width: 160px;
     aspect-ratio: 2 / 1;
     background-image: url('../GUI/navbar/navicoani.svg');
     background-repeat: no-repeat;
@@ -69,7 +70,7 @@ body{
 
 .navtext{
     color: #ffffff;
-    font-size: 1rem;
+    font-size: min(1rem,2.5vw);
     font-weight: bold;
     text-shadow: 2px 2px 0px #8a1d2e;
     z-index: 2;
@@ -78,7 +79,7 @@ body{
 
 .bigtextbad {
     color: #ffffff;
-    font-size: 0.9rem;
+    font-size: min(0.9rem,2vw);
     font-weight: bold;
     text-shadow: 2px 2px 0px #8a1d2e;
     z-index: 2;
