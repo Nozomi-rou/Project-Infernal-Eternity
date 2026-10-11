@@ -78,12 +78,12 @@ body{
 
 .bigtextbad {
     color: #ffffff;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-weight: bold;
     text-shadow: 2px 2px 0px #8a1d2e;
     z-index: 2;
     pointer-events: none;
-	transform: translateX(5px);
+	transform: translateX(6px);
 }
 
 .navbutton:hover , .navbutton:focus{
@@ -110,6 +110,7 @@ body{
     max-width: 1080px;
     padding: 10px;
     margin: 150px auto 40px auto;
+    text-align: center;
 }
 
 .border1 {
@@ -124,4 +125,16 @@ body{
     image-rendering: pixelated;
     image-rendering: crisp-edges;
     max-width: 100%;
+}
+
+.para{
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: normal;
+    text-shadow: 2px 2px 0px #8a1d2e;
+}
+
+.h31{
+    color: #ffffff;
+    text-shadow: 2px 2px 0px #8a1d2e;
 }
