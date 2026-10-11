@@ -13,6 +13,6 @@
 <h2>contributions!</h2><br>
 <p>ideas and support: itsuki , greekgamer</p>
 <p>Testing: i-happen-to-exist,fueroc211</p><br>
-<p>screenahots: i-happen-to-exist(devlogs) , rosee(final screenshot)</p><br>
+<p>screenahots: i-happen-to-exist(devlogs) , airfry(final screenshot)</p><br>
 <p>coding knowledge:the odin project , stack overflow , reddit , mdn</p>
 
