@@ -15,7 +15,7 @@
 }
 
 html {
-    background-color: #790700;
+    background-color: #3b0d11;
 }
 
 body{
@@ -77,11 +77,12 @@ body{
 
 .bigtextbad {
     color: #ffffff;
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     font-weight: bold;
     text-shadow: 2px 2px 0px #8a1d2e;
     z-index: 2;
     pointer-events: none;
+	margin-left: 4px;
 }
 
 .navbutton:hover , .navbutton:focus{
