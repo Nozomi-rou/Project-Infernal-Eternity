@@ -106,3 +106,20 @@ body{
 .navbutton:active{
     background-position: center 100%;
 }
+
+.body1 {
+    max-width: 1000px;
+    padding: 32px;
+    margin: 40px auto;
+}
+
+.border1 {
+    border-width: 20px;
+    border-style: solid;
+    border-color: transparent;
+    border-image-source: url('../Borders/fullbutsliced.svg');
+    border-image-slice: 33.333%;
+    border-image-repeat: round;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
