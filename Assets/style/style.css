@@ -108,14 +108,14 @@ body{
 
 .body1 {
     max-width: 1000px;
-    padding: 32px;
+    padding: 10px;
     margin: 150px auto 40px auto;
 }
 
 .border1 {
     background-color: #8a1d2e;
     background-clip: padding-box;
-    border-width: 24px;
+    border-width: 40px;
     border-style: solid;
     border-color: transparent;
     border-image-source: url('../Borders/full.svg');
