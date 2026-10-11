@@ -107,6 +107,7 @@ body{
 }
 
 .body1 {
+    width: 1000px;
     max-width: 1080px;
     padding: 10px;
     margin: 150px auto 40px auto;
@@ -131,10 +132,10 @@ body{
     color: #ffffff;
     font-size: 1rem;
     font-weight: normal;
-    text-shadow: 2px 2px 0px #8a1d2e;
+    text-shadow: 2px 2px 0px #000000;
 }
 
 .h31{
     color: #ffffff;
-    text-shadow: 2px 2px 0px #8a1d2e;
+    text-shadow: 2px 2px 0px #000000;
 }
