@@ -1,0 +1,39 @@
+[data-imblue="dabade"] html {
+    background-color: #010c22;
+}
+
+[data-imblue="dabade"] .navbutton {
+    background-image: url('../GUI/navbar/blueone.png');
+}
+
+[data-imblue="dabade"] .border1 {
+    background-color: #011c3b;
+}
+
+
+
+[data-inthiertongueheis="dovahkiin"] html {
+        background-color: #3b0d11;
+}
+
+[data-inthiertongueheis="dovahkiin"] .navbutton {
+        background-image: url('../GUI/navbar/redone.png');
+}
+
+[data-inthiertongueheis="dovahkiin"] .border1 {
+        background-color: #8a1d2e;
+}
+
+
+
+[data-fortheemos="itsnotaphasemom"] html {
+    background-color: #1d1c1c;
+}
+
+[data-fortheemos="itsnotaphasemom"] .navbutton {
+    background-image: url('../GUI/navbar/blackone.png');
+}
+
+[data-imblue="dabade"] .border1 {
+    background-color: #232323;
+}
