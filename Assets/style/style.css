@@ -15,7 +15,7 @@
 }
 
 html {
-    background-color: #3b0d11;
+    background-color: #010c22;
 }
 
 body{
@@ -53,7 +53,7 @@ body{
     width: 30vw;
     max-width: 160px;
     aspect-ratio: 2 / 1;
-    background-image: url('../GUI/navbar/navicoani.svg');
+    background-image: url('../GUI/navbar/blueone.png');
     background-repeat: no-repeat;
     background-position: center 0%;
     background-size: 100% auto;
@@ -72,7 +72,7 @@ body{
     color: #ffffff;
     font-size: min(1rem,2.5vw);
     font-weight: bold;
-    text-shadow: 2px 2px 0px #8a1d2e;
+    text-shadow: 2px 2px 0px #000000;
     z-index: 2;
     pointer-events: none;
 }
@@ -81,7 +81,7 @@ body{
     color: #ffffff;
     font-size: min(0.9rem,2vw);
     font-weight: bold;
-    text-shadow: 2px 2px 0px #8a1d2e;
+    text-shadow: 2px 2px 0px #000000;
     z-index: 2;
     pointer-events: none;
 	transform: translateX(6px);
@@ -116,7 +116,7 @@ body{
 }
 
 .border1 {
-    background-color: #8a1d2e;
+    background-color: #011c3b;
     background-clip: padding-box;
     border-width: 40px;
     border-style: solid;
