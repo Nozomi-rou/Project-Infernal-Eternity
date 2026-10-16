@@ -88,7 +88,7 @@ body{
 }
 
 .navbutton:hover , .navbutton:focus{
-    animation: damnitsanimated 0.2s steps(2) forwards;
+    animation: damnitsanimated 0.4s steps(33) infinite;
 
 }
 
