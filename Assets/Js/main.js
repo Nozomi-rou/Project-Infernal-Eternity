@@ -1,10 +1,10 @@
 const yourbrowserhistory = localStorage.getItem('EWBROWTF');
 
 if (yourbrowserhistory) {
-    document.documentElement.setAttribute(('data-HEH', yourbrowserhistory)
+    document.documentElement.setAttribute('data-HEH', yourbrowserhistory)
 }
 
-function peekaboo(EHH){
+function boylookatthis(EHH){
     document.documentElement.setAttribute('data-HEH', EHH);
     localStorage.setItem('EWBROWTF',EHH);
 }
