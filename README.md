@@ -1,7 +1,6 @@
 # Project-Eternity
 <h4>the main hub for every project that belongs to &lt Project Abyssal Garden &gt <br> also what will hold the accounts for umbra and other projects </h4><br>
 <p>currently in development phase 3</p><br>
-<h3> this photo is from phase 1 , i cant currently take screenshots<h3>
 <img src="Assets/images/screenshotbyfriend.webp"><br>
 <p>it will feature:</p><br>
 <h2>Home</h2><br>
