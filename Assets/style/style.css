@@ -232,3 +232,36 @@ body{
     font-size: 0.85rem;
     pointer-events: none;
 }
+
+#authtoka , #ITSYOU {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#ITSYOU {
+    display: none;
+}
+
+#skiptheformalities {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 280px;
+}
+
+#skiptheformalities label {
+    color: #ffffff;
+}
+
+#skiptheformalities input {
+    color: #ffffff;
+}
+
+#somerandomahhtext {
+    color: #ffffff;
+}
